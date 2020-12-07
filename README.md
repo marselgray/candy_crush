@@ -1,1 +1,6 @@
-# candy_crush
+# Candy Crush with JavaScript
+
+
+## JavaScript Concepts
+
+
